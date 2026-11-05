@@ -8,7 +8,7 @@ margin: 0;
 
 /* Tirar as bordas "de panilha" */
 table, td { 
-    border:#107394;
+    border:#ffffff;
     border-collapse: collapse;
 }
 
@@ -17,7 +17,7 @@ h1, h2 {color:rgb(249, 250, 250); }
 
 /* Links sem sublinhado */
 a {
-    color:#2d08b3;
+    color:#ffffff;
     text-decoration: none;
     font-weight: bold;
 }
