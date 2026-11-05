@@ -1,19 +1,19 @@
 /* Fonte e cores gerais */
 body {
 font-family:  Arial, sans-serif;
-background-color:#364047;
+background-color:#b8d8ee;
 color: #ebf1f1;
 margin: 0;
 }
 
 /* Tirar as bordas "de panilha" */
 table, td { 
-    border:#212d31;
+    border:#107394;
     border-collapse: collapse;
 }
 
 /* Títulos com a cor da loja */
-h1, h2 {color:rgb(40, 54, 68); }
+h1, h2 {color:rgb(249, 250, 250); }
 
 /* Links sem sublinhado */
 a {
